@@ -1,2 +1,2 @@
 My first readme
-my first online class
+and my first online class
